@@ -1,0 +1,6 @@
+cradle:
+  cabal:
+    - path: "app/Main.hs"
+      component: "haskell99:exe:haskell99"
+    - path: "app/Problems"
+      component: "haskell99:exe:haskell99"
