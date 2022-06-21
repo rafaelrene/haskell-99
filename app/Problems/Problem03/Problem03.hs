@@ -1,4 +1,4 @@
-module Problems.Problem03 (elementAt) where
+module Problems.Problem03.Problem03 (elementAt) where
 
 elementAt :: Int -> [a] -> Maybe a
 elementAt _ [] = Nothing
