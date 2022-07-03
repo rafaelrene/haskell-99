@@ -18,10 +18,10 @@ synopsis:           Just going through 99 haskell problems
 -- description:
 
 -- URL for the project homepage or repository.
-homepage:
+homepage:           https://github.com/rafaelrene/haskell-99
 
 -- A URL where users can report bugs.
--- bug-reports:
+bug-reports:        https://github.com/rafaelrene/haskell-99
 
 -- The license under which the package is released.
 license:            MIT
