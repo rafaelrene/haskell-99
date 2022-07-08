@@ -1,4 +1,4 @@
-module Problems.Problem02.Problem02 (penultimate) where
+module Problems.Problem02.Solution (penultimate) where
 
 penultimate :: [a] -> Maybe a
 penultimate [] = Nothing

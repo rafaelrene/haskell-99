@@ -1,4 +1,4 @@
-module Problems.Problem08.Problem08 (compress) where
+module Problems.Problem08.Solution (compress) where
 
 compress :: Eq a => [a] -> [a]
 compress [] = []

@@ -1,6 +1,6 @@
-module Problems.Problem06.Problem06 (isPalindrome) where
+module Problems.Problem06.Solution (isPalindrome) where
 
-import qualified Problems.Problem05.Problem05 as P05
+import qualified Problems.Problem05.Solution as P05
 
 isPalindrome :: Eq a => [a] -> Bool
 isPalindrome list = list == reversedList

@@ -1,4 +1,4 @@
-module Problems.Problem01.Problem01 (myLast) where
+module Problems.Problem01.Solution (myLast) where
 
 myLast :: [a] -> Maybe a
 myLast [] = Nothing

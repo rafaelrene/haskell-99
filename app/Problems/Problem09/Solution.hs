@@ -1,4 +1,4 @@
-module Problems.Problem09.Problem09 (pack) where
+module Problems.Problem09.Solution (pack) where
 
 import qualified Data.List as List (group)
 

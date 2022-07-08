@@ -1,6 +1,6 @@
-module Problems.Problem10.Problem10 (lengthEncode) where
+module Problems.Problem10.Solution (lengthEncode) where
 
-import qualified Problems.Problem09.Problem09 as P9 (pack)
+import qualified Problems.Problem09.Solution as P9 (pack)
 
 lengthEncode :: Eq a => [a] -> [(Int, [a])]
 lengthEncode xs = map mapFn packedXs

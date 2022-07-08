@@ -1,4 +1,4 @@
-module Problems.Problem07.Problem07 (flatten) where
+module Problems.Problem07.Solution (flatten) where
 
 data NestedList a = Elem a | List [NestedList a]
 
